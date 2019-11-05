@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: big.red
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: little.red
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: chicken.little
     aws_groups: "palmsprings, indio, sandiego"
