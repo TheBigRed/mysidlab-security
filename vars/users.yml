@@ -1,8 +1,8 @@
 ---
 users:
   - name: big.red
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "alpha, delta, gamma"
   - name: little.red
-    aws_groups: "losangeles, sanfransisco, napa"
+    aws_groups: "beta, gamma"
   - name: chicken.little
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "delta, beta"
