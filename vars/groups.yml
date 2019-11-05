@@ -2,5 +2,5 @@
 aws_groups:
   - alpha
   - beta
-  - gama
+  - gamma
   - delta
